@@ -1,5 +1,7 @@
 https://github.com/hongbagsa/shopping.git
 
+ctrl + v 안 됨 => shift + lns
+
 초기설정
 git config --global user.name "유저이름"
 git config --global user.email "유저 이메일"
